@@ -1,7 +1,7 @@
 "use client";
 
 import TaskItem from "./TaskItem";
-import { Task, View } from "@/types/task";
+import { Task, View } from "@/components/types/task";
 
 interface TaskListProps {
   tasks: Task[];
