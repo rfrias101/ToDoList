@@ -1,6 +1,6 @@
 "use client";
 
-import { Task } from "@/types/task";
+import { Task } from "@/components/types/task";
 
 interface TaskItemProps {
   task: Task;
